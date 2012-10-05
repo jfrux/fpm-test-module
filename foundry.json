@@ -1,0 +1,11 @@
+{
+	"name":"fpm-test-module",
+	"version":"0.0.1",
+	"dependencies":{
+		"UnderscoreCF":"git://github.com/russplaysguitar/UnderscoreCF.git",
+		"semver":"git://github.com/joshuairl/semver.git",
+		"mkdirp":"git://github.com/slamkajs/mkdirp.git",
+		"rimraf":"git://github.com/joshuairl/rimraf.git",
+		"tmp":"git://github.com/joshuairl/tmp.git"
+	}
+}
